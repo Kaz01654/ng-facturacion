@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/invytec/microservice_data_sap.git"
+    "url": "https://github.com/Kaz01654/ng-facturacion/tree/master/backEnd#readme"
   },
   "keywords": [
     "Facturacion"
   ],
   "author": "David Alexis",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/invytec/microservice_data_sap#readme",
+  "homepage": "https://github.com/Kaz01654/ng-facturacion#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
