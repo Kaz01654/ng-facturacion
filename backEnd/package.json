@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "API para facturacion.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=12.14.1",
+    "npm": ">=6.13.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/invytec/microservice_data_sap.git"
+  },
+  "keywords": [
+    "Facturacion"
+  ],
+  "author": "David Alexis",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/invytec/microservice_data_sap#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "nodemon": "^2.0.19",
+    "pg": "^8.8.0"
+  }
+}
